@@ -1,0 +1,10 @@
+name = "Real Time Flight Telemetry";
+author = "Darth Raptor";
+tooltip = "Exports aircraft telemetry data";
+tooltipOwned = "Flight Telemetry Active";
+picture = "";
+logo = "";
+logoOver = "";
+overview = "This mod exports flight telemetry for use with ArmaCOM.";
+hideName = 0;
+hidePicture = 0;
