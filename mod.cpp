@@ -1,4 +1,4 @@
-name = "Real Time Flight Telemetry";
+name = "Arma Matric Bridge";
 author = "Darth Raptor";
 tooltip = "Exports aircraft telemetry data";
 tooltipOwned = "Flight Telemetry Active";
